@@ -1,1 +1,1 @@
-# RNN_shakepear_play-generation
+# RNN_Play-generation
